@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EUNySQmOsMgsgIrcS2WvWwryjsFVWUq9dP+Uz6tRqGs=",
+  "Source": "CloudCustormers.Api",
+  "BasePath": "_content/CloudCustormers.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
